@@ -1,2 +1,2 @@
 # tyfe
-TYpe based on FilE
+TYpe by FilE
